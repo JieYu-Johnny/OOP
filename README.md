@@ -2,35 +2,10 @@
 
 ## 文件树
 
-```shell
+```
 │  pom.xml //maven的配置目录，里面有一些依赖
 │
-├─.idea
-│  │  .gitignore
-│  │  compiler.xml
-│  │  dataSources.local.xml
-│  │  dataSources.xml
-│  │  jarRepositories.xml
-│  │  misc.xml
-│  │  sqldialects.xml
-│  │  uiDesigner.xml
-│  │  vcs.xml
-│  │  workspace.xml
-│  │
-│  ├─dataSources
-│  │  │  34795138-2fe9-43fc-8246-cc84e8eac651.xml
-│  │  │
-│  │  └─34795138-2fe9-43fc-8246-cc84e8eac651
-│  │      └─storage_v2
-│  │          └─_src_
-│  │              └─schema
-│  │                      information_schema.FNRwLQ.meta
-│  │                      mysql.osA4Bg.meta
-│  │                      performance_schema.kIw0nw.meta
-│  │                      sys.zb4BAA.meta
-│  │
-│  └─inspectionProfiles
-│          Project_Default.xml
+├─.idea//不用管
 │
 ├─src    //源文件目录
 │  ├─main
@@ -79,8 +54,6 @@
 │  └─test//测试类 不用管
 │      └─java
 │              sqltest.java
-│
-└─target//不用管
 ```
 
 ## 说明
