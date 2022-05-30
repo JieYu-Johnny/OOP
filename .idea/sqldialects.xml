@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/34795138-2fe9-43fc-8246-cc84e8eac651/console.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" dialect="GenericSQL" />
+  </component>
+</project>
